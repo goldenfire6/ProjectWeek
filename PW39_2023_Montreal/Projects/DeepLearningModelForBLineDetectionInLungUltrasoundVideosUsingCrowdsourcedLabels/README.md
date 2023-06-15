@@ -13,6 +13,18 @@ key_investigators:
 - name: Mike Jin
   affiliation: Brigham and Women's Hospital
   country: USA
+  
+- name: Rebecca Hisey
+  affiliation: Queen's University
+  country: Canada
+  
+- name: Cosmin Ciausu
+  affiliation: Brigham and Women's Hospital
+  country: USA
+  
+- name: Deepa Krishnaswamy
+  affiliation: Brigham and Women's Hospital
+  country: USA
 
 - name: Tamas Ungi
   affiliation: Queen's University
